@@ -1,0 +1,11 @@
+Troll
+- nmap ip - sV / nmap ip -p21 -sV
+- ftp 'ip'
+- anonymous
+- get lol.pcap
+- dirb ip
+- Open WireShark and find the hint
+- wget ip/directory
+- strings filename
+- Download files then nano it
+- hydra -L 'username_file' -P 'password_file' ip ssh -t 4

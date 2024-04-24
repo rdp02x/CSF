@@ -1,0 +1,9 @@
+Koptrix
+- nmap ip - sV
+- msfconsole
+- search type exploit:Apache httpd 1.3.201
+- searchsploit
+- wget the latest file/searchsploit -m filename
+- gcc filename.c -o run.out -lcrypto
+- ./run.out
+- ./run.out 'offsetname' 'targetip'

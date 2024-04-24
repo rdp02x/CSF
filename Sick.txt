@@ -1,0 +1,10 @@
+SickOS
+- nmap ip - sV
+- whatweb http://ip
+- dirb http://ip
+- Open BirpSuit
+- Go to Proxy tab
+- Turn on intercept (Refresh the page)
+- Select the request and send to repeater
+- Select operation and send
+- Turn off the intercept
